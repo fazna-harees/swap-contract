@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"swaprouter.sol": "PancakeLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"swaprouter.sol": {
+			"keccak256": "0x4ab564c6e31979e2e3a53559d69c9050b731627709777b8edc241208ec240661",
+			"urls": [
+				"bzz-raw://037a87af0e652d4b0ef3aa0d6622f56341321f36c6160a36f0938300864c255c",
+				"dweb:/ipfs/QmNjMaS3GiCSF5dcM4RhFRLcvuasdiLAMVpDgLJd6cTvGF"
+			]
+		}
+	},
+	"version": 1
+}
